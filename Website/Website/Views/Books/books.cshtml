@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Книги";
+}
+@model IEnumerable<Website.Models.Book>
+
+<h1>Мои Книги</h1>
+
+@foreach (var book in Model)
+{
+    <div class="book">
+        <img src=@("../Content/Covers/" + book.Cover) />
+        <div class="book_name">@(book.Name)</div>
+        <div class="book_year">@(book.Year )</div>
+    </div>
+}

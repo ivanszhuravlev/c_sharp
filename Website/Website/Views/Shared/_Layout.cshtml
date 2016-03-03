@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/default.css" />
+</head>
+<body>
+    <nav>
+        <a>@Html.ActionLink("Главная", "show", "Home")</a>
+        <a>@Html.ActionLink("Книги", "show", "Books")</a>
+        <a>@Html.ActionLink("Обо мне", "show", "About")</a>
+        <a>@Html.ActionLink("Контакты", "show", "Contact")</a>
+    </nav>
+
+    @RenderBody()
+</body>
+</html>
