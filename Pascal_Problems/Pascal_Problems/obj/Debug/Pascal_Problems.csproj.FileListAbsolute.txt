@@ -1,0 +1,6 @@
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\bin\Debug\Pascal_Problems.exe.config
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\bin\Debug\Pascal_Problems.exe
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\bin\Debug\Pascal_Problems.pdb
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\obj\Debug\Pascal_Problems.csprojResolveAssemblyReference.cache
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\obj\Debug\Pascal_Problems.exe
+W:\hometask_1_problems\Pascal_Problems\Pascal_Problems\obj\Debug\Pascal_Problems.pdb
