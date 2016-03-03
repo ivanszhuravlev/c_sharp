@@ -1,0 +1,6 @@
+W:\hometask_1_problems\01_stones\01_stones\bin\Debug\01_stones.exe.config
+W:\hometask_1_problems\01_stones\01_stones\bin\Debug\01_stones.exe
+W:\hometask_1_problems\01_stones\01_stones\bin\Debug\01_stones.pdb
+W:\hometask_1_problems\01_stones\01_stones\obj\Debug\01_stones.csprojResolveAssemblyReference.cache
+W:\hometask_1_problems\01_stones\01_stones\obj\Debug\01_stones.exe
+W:\hometask_1_problems\01_stones\01_stones\obj\Debug\01_stones.pdb
